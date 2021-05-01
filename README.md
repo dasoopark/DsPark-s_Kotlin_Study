@@ -11,7 +11,7 @@
 ## Kotlin
 
 * [오늘의 코드](https://todaycode.tistory.com/) - by Kim Juhwan님 
-  - Android 중요한 개념이 잘 정리되어 있음. ( Retrofit 통신, JetPack, Room사용법/예제, MVVM, 뷰 모델, CallBack ) 
+  - Android 중요한 개념이 잘 정리되어 있음. (Retrofit 통신, JetPack, Room사용법/예제, MVVM, 뷰 모델, CallBack) 
 
 
 ## Etc
